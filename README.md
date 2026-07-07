@@ -39,8 +39,7 @@ You were born in the year: 2008 (Based on your age of 18)
 ```
 ## Here it is video link just click and Watch it. 
 # HOW IT WORKS?
-https://docs.google.com/videos/d/112pVXbxVC-s1mDjAkrvI9uW0ttPjXxVeBj4hDMTaeYg/edit?usp=drive_link
-
+https://drive.google.com/file/d/1DsColdocglLhAnHukxdIl7AB0vnlxYuA/view?usp=sharing
 -----------------------------------------------------------
 Thank you for participating in the Fundamental Booster Program!
 We hope you enjoyed the experience and learned something new about yourself 😊.
