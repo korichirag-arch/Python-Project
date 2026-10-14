@@ -37,9 +37,6 @@ Favorite Number: 7(Type: <class 'int'>, Memory Address: 140733504)
 
 You were born in the year: 2008 (Based on your age of 18)
 ```
-## Here it is video link just click and Watch it. 
-# HOW IT WORKS?
-https://drive.google.com/file/d/1DsColdocglLhAnHukxdIl7AB0vnlxYuA/view?usp=sharing
 -----------------------------------------------------------
 Thank you for participating in the Fundamental Booster Program!
 We hope you enjoyed the experience and learned something new about yourself 😊.
